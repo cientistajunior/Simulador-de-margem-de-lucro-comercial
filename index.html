@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Simulador de margem de lucro comercial</title>
+        <link rel="stylesheet" href="styles.css">
+        <script src="main.js" defer></script>
+    </head>
+    <body>
+        <header>
+            <h1>simulador de margem de lucro comercial</h1>
+        </header>
+        <main>
+            <form>
+                <div class="form-group">
+                    <label for="costPrice">Preço de Custo (R$):</label>
+                    <input type="number" id="costPrice" name="costPrice" step="0.01" required>
+                </div>
+                <div class="form-group">
+                    <label for="costSale">Preço de Venda (R$)</label>
+                    <input type="number" id="costSale" name="costSale" step="0.01" required>
+                </div>
+                
+                <button type="submit">Calcular margem de lucro</button>
+            </form>
+            <p class="result"></p>
+        </main>
+        <footer>Made in Wilson Jr</footer>
+    </body>
+</html> 

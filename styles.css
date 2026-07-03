@@ -18,3 +18,11 @@ body {
     flex-direction: column;
     justify-content: center;
 }
+
+form {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    max-width: 40rem;
+    width: 100%;
+}

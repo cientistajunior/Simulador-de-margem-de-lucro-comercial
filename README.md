@@ -11,7 +11,7 @@ Este projeto foi desenvolvido para ajudar empreendedores, comerciantes e profiss
 O simulador está online e pronto para ser utilizado em ambas as plataformas. Escolha a sua preferida para testar a aplicação em tempo real:
 
 * ⚡ **Versão Vercel (Principal):** [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)]([LINK_DA_VERCEL_AQUI])
-* 🐙 **Versão GitHub Pages:** [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)]([LINK_DO_GITHUB_PAGES_AQUI])
+* 🐙 **Versão GitHub Pages:** ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white) [Simulador de Margem de Lucro](https://cientistajunior.github.io/Simulador-de-margem-de-lucro-comercial/)
 
 ---
 

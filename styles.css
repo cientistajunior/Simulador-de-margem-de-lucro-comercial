@@ -26,3 +26,26 @@ form {
     max-width: 40rem;
     width: 100%;
 }
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.form-group label[for="costPrice"] {
+    margin-top: 2rem;
+}
+
+.form-group input {
+    padding: 0.5rem;
+}
+
+form > button {
+    cursor: pointer;
+    padding: 1.5rem;
+}
+
+.result {
+    margin-top: 2rem;
+}

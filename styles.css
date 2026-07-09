@@ -48,4 +48,15 @@ form > button {
 
 .result {
     margin-top: 2rem;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    color: green;
+}
+
+footer {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
 }
